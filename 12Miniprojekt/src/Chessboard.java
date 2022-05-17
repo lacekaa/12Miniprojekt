@@ -5,6 +5,7 @@
  */
 public class Chessboard {
 	//new comment
+	//another new comments
 
 	/**
 	 * The fields of the chess board. The first dimension references columns (x),
